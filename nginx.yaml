@@ -28,7 +28,7 @@ metadata:
   name: mynginx2
 spec:
   ports:
-  - nodePort: 32224
+  - nodePort: 32225
     port: 80
     protocol: TCP
     targetPort: 80
